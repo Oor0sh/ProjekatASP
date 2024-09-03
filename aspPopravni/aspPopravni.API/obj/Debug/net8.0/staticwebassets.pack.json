@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Uros Cvetkovski\\source\\repos\\aspPopravni\\aspPopravni.API\\wwwroot\\images\\covers\\default.png",
+      "PackagePath": "staticwebassets\\images\\covers\\default.png"
+    },
+    {
+      "Id": "C:\\Users\\Uros Cvetkovski\\source\\repos\\aspPopravni\\aspPopravni.API\\wwwroot\\images\\f23501ea-622f-4e63-b42a-12f0ed59c1f3.JPG",
+      "PackagePath": "staticwebassets\\images\\f23501ea-622f-4e63-b42a-12f0ed59c1f3.JPG"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.aspPopravni.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.aspPopravni.API.props",
+      "PackagePath": "build\\aspPopravni.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.aspPopravni.API.props",
+      "PackagePath": "buildMultiTargeting\\aspPopravni.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.aspPopravni.API.props",
+      "PackagePath": "buildTransitive\\aspPopravni.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

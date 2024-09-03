@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "c5m3DqxcSHMApnfYtb0JXLs2EkD0OGgaJj6yZNtO4aI=",
+  "Source": "aspPopravni.API",
+  "BasePath": "_content/aspPopravni.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "aspPopravni.API\\wwwroot",
+      "Source": "aspPopravni.API",
+      "ContentRoot": "C:\\Users\\Uros Cvetkovski\\source\\repos\\aspPopravni\\aspPopravni.API\\wwwroot\\",
+      "BasePath": "_content/aspPopravni.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Uros Cvetkovski\\source\\repos\\aspPopravni\\aspPopravni.API\\wwwroot\\images\\covers\\default.png",
+      "SourceId": "aspPopravni.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Uros Cvetkovski\\source\\repos\\aspPopravni\\aspPopravni.API\\wwwroot\\",
+      "BasePath": "_content/aspPopravni.API",
+      "RelativePath": "images/covers/default.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\covers\\default.png"
+    },
+    {
+      "Identity": "C:\\Users\\Uros Cvetkovski\\source\\repos\\aspPopravni\\aspPopravni.API\\wwwroot\\images\\f23501ea-622f-4e63-b42a-12f0ed59c1f3.JPG",
+      "SourceId": "aspPopravni.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Uros Cvetkovski\\source\\repos\\aspPopravni\\aspPopravni.API\\wwwroot\\",
+      "BasePath": "_content/aspPopravni.API",
+      "RelativePath": "images/f23501ea-622f-4e63-b42a-12f0ed59c1f3.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f23501ea-622f-4e63-b42a-12f0ed59c1f3.JPG"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.DataAccess\bin\Debug\net8.0\aspPopravni.DataAccess.deps.json
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.DataAccess\bin\Debug\net8.0\aspPopravni.DataAccess.runtimeconfig.json
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.DataAccess\bin\Debug\net8.0\aspPopravni.DataAccess.dll
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.DataAccess\bin\Debug\net8.0\aspPopravni.DataAccess.pdb
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.DataAccess\bin\Debug\net8.0\aspPopravni.Domain.dll
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.DataAccess\bin\Debug\net8.0\aspPopravni.Domain.pdb
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.DataAccess\obj\Debug\net8.0\aspPopravni.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.DataAccess\obj\Debug\net8.0\aspPopravni.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.DataAccess\obj\Debug\net8.0\aspPopravni.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.DataAccess\obj\Debug\net8.0\aspPopravni.DataAccess.AssemblyInfo.cs
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.DataAccess\obj\Debug\net8.0\aspPopravni.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.DataAccess\obj\Debug\net8.0\aspPopra.805C9C40.Up2Date
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.DataAccess\obj\Debug\net8.0\aspPopravni.DataAccess.dll
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.DataAccess\obj\Debug\net8.0\refint\aspPopravni.DataAccess.dll
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.DataAccess\obj\Debug\net8.0\aspPopravni.DataAccess.pdb
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.DataAccess\obj\Debug\net8.0\aspPopravni.DataAccess.genruntimeconfig.cache
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.DataAccess\obj\Debug\net8.0\ref\aspPopravni.DataAccess.dll

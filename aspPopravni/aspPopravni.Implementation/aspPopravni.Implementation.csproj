@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\aspPopravni.Application\aspPopravni.Application.csproj" />
+    <ProjectReference Include="..\aspPopravni.DataAccess\aspPopravni.DataAccess.csproj" />
+    <ProjectReference Include="..\aspPopravni.Domain\aspPopravni.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net" Version="0.1.0" />
+  </ItemGroup>
+
+</Project>

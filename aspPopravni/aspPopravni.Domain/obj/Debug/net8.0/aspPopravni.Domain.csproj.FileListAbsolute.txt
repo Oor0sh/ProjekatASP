@@ -1,0 +1,11 @@
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Domain\bin\Debug\net8.0\aspPopravni.Domain.deps.json
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Domain\bin\Debug\net8.0\aspPopravni.Domain.dll
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Domain\bin\Debug\net8.0\aspPopravni.Domain.pdb
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Domain\obj\Debug\net8.0\aspPopravni.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Domain\obj\Debug\net8.0\aspPopravni.Domain.AssemblyInfoInputs.cache
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Domain\obj\Debug\net8.0\aspPopravni.Domain.AssemblyInfo.cs
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Domain\obj\Debug\net8.0\aspPopravni.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Domain\obj\Debug\net8.0\aspPopravni.Domain.dll
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Domain\obj\Debug\net8.0\refint\aspPopravni.Domain.dll
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Domain\obj\Debug\net8.0\aspPopravni.Domain.pdb
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Domain\obj\Debug\net8.0\ref\aspPopravni.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Application\bin\Debug\net8.0\aspPopravni.Application.deps.json
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Application\bin\Debug\net8.0\aspPopravni.Application.dll
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Application\bin\Debug\net8.0\aspPopravni.Application.pdb
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Application\bin\Debug\net8.0\aspPopravni.Domain.dll
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Application\bin\Debug\net8.0\aspPopravni.Domain.pdb
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Application\obj\Debug\net8.0\aspPopravni.Application.csproj.AssemblyReference.cache
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Application\obj\Debug\net8.0\aspPopravni.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Application\obj\Debug\net8.0\aspPopravni.Application.AssemblyInfoInputs.cache
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Application\obj\Debug\net8.0\aspPopravni.Application.AssemblyInfo.cs
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Application\obj\Debug\net8.0\aspPopravni.Application.csproj.CoreCompileInputs.cache
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Application\obj\Debug\net8.0\aspPopra.D855D7EE.Up2Date
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Application\obj\Debug\net8.0\aspPopravni.Application.dll
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Application\obj\Debug\net8.0\refint\aspPopravni.Application.dll
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Application\obj\Debug\net8.0\aspPopravni.Application.pdb
+C:\Users\Uros Cvetkovski\source\repos\aspPopravni\aspPopravni.Application\obj\Debug\net8.0\ref\aspPopravni.Application.dll
